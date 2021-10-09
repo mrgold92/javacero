@@ -70,7 +70,7 @@ public class Variables {
         double chardouble = 2234.13252;
         float floatvariable = 5123.1234234f;
 
-        System.out.println(((Object) chardouble).getClass());    // class java.lang.Double
+        System.out.println(((Object) chardouble).getClass());       // class java.lang.Double
         System.out.println(((Object) floatvariable).getClass());    // class java.lang.Float
 
         //imprimir por consola el valor
