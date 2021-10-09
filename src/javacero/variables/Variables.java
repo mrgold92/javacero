@@ -86,6 +86,19 @@ public class Variables {
        
         //imprimir por consola el valor
         System.out.println(booleanvariable);
+        
+         System.out.println("------------------------");
+         
+        //Las variables, como su nombre indica, pueden cambiar de valor 
+        //durante la ejecución del programa, veamos un ejemplo:
+        
+        boolean booleanCambioValor = false;
+        
+        System.out.println(booleanCambioValor);                         // false
+        
+        booleanCambioValor = true;
+        
+        System.out.println(booleanCambioValor);                         // true
      
 
     }
