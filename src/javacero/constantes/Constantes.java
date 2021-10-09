@@ -6,7 +6,7 @@ package javacero.constantes;
  * esto se hace para proteger algunas variables para que a lo largo de la
  * ejecución del programa, su valor no pueda cambiar.
  *
- * Por ejemplo si guardamos el IVA. Pòr convención el nombre de la constante se
+ * Por ejemplo si guardamos el IVA. Por convención el nombre de la constante se
  * escribe en MAYÚSCULA.
  *
  * @author David Salazar
